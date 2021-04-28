@@ -4,7 +4,7 @@ It supports creating buckets, uploading files to a bucket, listing files in a bu
 
 
 ##Usage
-ruby ./ruby-aws bucket_name [operation] [options]
+`ruby ./ruby-aws bucket_name [operation] [options]`
 
 ```
 Where:
@@ -30,6 +30,7 @@ Operations with specific arguments:
 ```
 
 Followed tutorials:
+
 https://aws.amazon.com/blogs/developer/downloading-objects-from-amazon-s3-using-the-aws-sdk-for-ruby/
 
 https://docs.aws.amazon.com/sdk-for-ruby/v3/developer-guide/hello.html
